@@ -20,4 +20,4 @@ if (num > 9999 & num < 100000)
     }
     else System.Console.WriteLine("Число НЕ палиндром");
     }
-else System.Console.WriteLine("число не пятизначное");
+else System.Console.WriteLine("Число не пятизначное");
